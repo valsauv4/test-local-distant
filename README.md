@@ -1,2 +1,2 @@
-# tests liaison local - distant
+# tests liaison local
 
