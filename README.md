@@ -1,1 +1,1 @@
-# tests liaison loocal - distant
+# tests liaison local - distant
